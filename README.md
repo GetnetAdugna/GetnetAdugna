@@ -5,7 +5,7 @@
 <ul>
 <!-- <li>👾 Part of Pinely International</li> -->
 <li>🔝 I’m looking to collaborate on some interesting project</li>
-<li>💻 MERN Stack Developer</li>
+<li>💻 Full Stack Developer</li>
 <!-- <li>📫 How to reach me: getnet.abite@pinely.eu</li> -->
 </ul>
 
