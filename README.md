@@ -1,11 +1,11 @@
-<h1>👋 Hello there, I’m Getnet </h1>
+<h1>👋 Tech Nerd </h1>
 <!-- <div><img src="https://pinely.eu/_next/image?url=https%3A%2F%2Fpinely-strapi-files.s3.eu-west-3.amazonaws.com%2Flogo_0bda874db4.png&w=128&q=75"</div>> -->
 <div>
 <h3>About Me :</h3>
 <ul>
 <!-- <li>👾 Part of Pinely International</li> -->
 <li>🔝 I’m looking to collaborate on some interesting project</li>
-<li>💻 Full Stack Developer</li>
+<li>💻 Software  Developer</li>
 <!-- <li>📫 How to reach me: getnet.abite@pinely.eu</li> -->
 </ul>
 
